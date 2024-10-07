@@ -17,4 +17,4 @@ An OMD server is a backend-agnostic system exposing an interface for retrieving 
 Any platform, service, organisation or other entity that uses and updates catalog assets and data.
 
 ### Registry
-A public registry running on a sufficiently decentralised network allowing anyone to register a unique ID with a server location. The ID allows clients to request data from a trusted and always on source. It is recommended to host registries on public blockchains like Ethereum or similiar networks.
+A public registry running on a sufficiently decentralised network allowing anyone to register a unique ID with a server location. The ID allows clients to request data from a trusted and always available source. It is recommended to host registries on public blockchains like Ethereum or similiar networks.
